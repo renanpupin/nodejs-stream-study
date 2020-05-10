@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-stream-study",
+  "version": "1.0.0",
+  "description": "Simple nodejs stream study",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renan Pupin",
+  "license": "MIT"
+}
